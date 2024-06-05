@@ -20,10 +20,3 @@ This project focuses on implementing and optimizing the TPC-H benchmark using Po
 - **SQL Scripts**: All SQL scripts used for database setup, data population, and query optimization.
 - **Report**: Detailed report documenting the implementation, optimization strategies, and performance analysis.
 
-## Contact
-
-For any questions or further information, please contact [Author Name].
-
----
-
-**Note**: Please ensure you have PostgreSQL installed and properly configured before running the SQL scripts. The detailed instructions for setting up and running the scripts are provided in the report.
